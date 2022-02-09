@@ -1,5 +1,12 @@
 public class allMethod {
 
+    public static void main(String args[]){
+
+        factorial();
+        missingArray();
+        fiboNa();
+
+    }
 
     static void factorial() {
         int num = 10;
@@ -45,12 +52,6 @@ public class allMethod {
 
     }
 
-    public static void main(String args[]){
 
-        factorial();
-        missingArray();
-        fiboNa();
-
-    }
 }
 
