@@ -20,7 +20,7 @@ public class missingArray {
         }
 
         // now, let's print all the absentees
-        System.out.println("missing numbers in given array");
+        System.out.println("missing numbers are given below accordingly");
 
         for (int i = 1; i < register.length; i++) {
             if (register[i] == 0) {
